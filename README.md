@@ -1,4 +1,5 @@
-# fire-base-starter-chat-application a Premium back-end application
+# fire-base-starter-chat-application 
+a Premium back-end application
 firebase basic chatting application
 
 creating a real-time database instructions: https://firebase.google.com/docs/database
